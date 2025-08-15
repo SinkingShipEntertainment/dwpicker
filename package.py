@@ -1,7 +1,7 @@
 name = "dwpicker"
 
 # NOTE: Their Github tag uses "-" (dash) but we cannot use dash here.
-version = "0.6.5.2023.06.08.sse.1.0.0"
+version = "1.0.4.2025.04.04.sse.1.0.0"
 
 authors = [
     "Lionel Brouyère",
